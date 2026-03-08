@@ -4,9 +4,9 @@ If you want to verify that this is the same file as in the workshop version, the
 In there is the files of the actual installed mod, or just install it from this repo directly if you are familiar with PPG modding.
 
 # Inspired by ContentApple's mod
-(Rewritten from scratch, none of his work was used or referenced, therefore not infringing the copyright of his source code).
+(Rewritten from scratch, none of his work was used or referenced, therefore not infringing the copyright of his source code). Do not support him, his response to this fixed version was toxic and he continues to slander me for no reason.
 
-Aims to show the inspect menu of a person whenever you hover your mouse over them automatically in a more optimised manner.
+Aims to show the inspect menu of a person whenever you hover your mouse over them automatically in a more optimised manner. Not bloated like his version, aims to be lightweight and simple: hover over? inspect menu! i don't waste your performance for gimmicks you don't want, it's exactly what the name says and nothing more nor less. Tested for stability.
 
 
 # Performance:
