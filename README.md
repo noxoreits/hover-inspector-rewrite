@@ -1,4 +1,4 @@
-#H1 Inspired by ContentApple's mod
+# H1 Inspired by ContentApple's mod
 (Rewritten from scratch, none of his work was used or referenced, therefore not infringing the copyright of his source code).
 
 Aims to show the inspect menu of a person whenever you hover your mouse over them automatically in a more optimised manner.
