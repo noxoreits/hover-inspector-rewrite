@@ -17,5 +17,5 @@ My version pulls ~130fps with 100fps lows with the 10 people while hovering over
 
 
 # Permissions:
-Open to recommendations and criticism (just keep it civil)
-## **For usage permissions, see "LICENSE" file**
+This repository and everything within it is protected by the MIT License. 
+## **For more details, see "LICENSE" file**
