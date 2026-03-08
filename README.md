@@ -1,4 +1,7 @@
+# Mod Details + Safety Verification
 Steam Mod : https://steamcommunity.com/sharedfiles/filedetails/?id=3681175833
+If you want to verify that this is the same file as in the workshop version, then subscribe to the mod and check: C:\Program Files (x86)\Steam\steamapps\workshop\content\1118200\3681175833
+In there is the files of the actual installed mod, or just install it from this repo directly if you are familiar with PPG modding.
 
 # Inspired by ContentApple's mod
 (Rewritten from scratch, none of his work was used or referenced, therefore not infringing the copyright of his source code).
