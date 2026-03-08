@@ -1,0 +1,19 @@
+{
+  "Name": "Hover Inspector",
+  "Author": "Noxoreits",
+  "Description": "Inspired by ContentApple's mod (Rewritten from scratch, none of his work is used). Efficiently coded, shows inspect menu of a person when hovered over automatically.",
+  "ModVersion": "1.0",
+  "GameVersion": "1.27",
+  "ThumbnailPath": "thumbnail.png",
+  "EntryPoint": "Mod.Mod",
+  "Tags": [
+    "Utility"
+  ],
+  "Scripts": [
+    "mod.cs"
+  ],
+  "Active": false,
+  "UGCIdentity": null,
+  "CreatorUGCIdentity": "3681175833",
+  "AssemblyName": null
+}
