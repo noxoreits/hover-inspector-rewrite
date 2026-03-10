@@ -9,6 +9,7 @@ In there is the files of the actual installed mod, or just install it from this 
 # Versions
 - **Version 0.1 | 8/03/26 :** First implementation, extremely basic. Main goal was to remove redundant checks and simplify the original mod via a complete rewrite. Similar frameworks due to their simplicities, but ended up being 3x faster.
 - **Version 1.0 | 9/03/26 :** Replaced most of 0.1's code and implemented additional safeguards to ensure robustness & stability, while adding small QoL, such as limb deletion not closing the inspect menu. Maintains even better performance than 0.1 despite the additions.
+- **Version 1.1 | 10/03/26 :** Thumbnail updated to reduce confusion with the word "optimisation". Now referred to as "lightweight" as a better descriptor.
 
 ## My Goal
 This mod's goal is simple:
