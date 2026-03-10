@@ -1,0 +1,19 @@
+{
+  "Name": "Hover Inspector",
+  "Author": "Noxoreits",
+  "Description": "Shows inspect menu of a person when hovered over automatically. Aims to be lightweight and minimal to allow maximum performance and mod compatibility.",
+  "ModVersion": "1.1",
+  "GameVersion": "1.27",
+  "ThumbnailPath": "thumbnail.png",
+  "EntryPoint": "Mod.Mod",
+  "Tags": [
+    "Utility"
+  ],
+  "Scripts": [
+    "mod.cs"
+  ],
+  "Active": true,
+  "UGCIdentity": null,
+  "CreatorUGCIdentity": "3681175833",
+  "AssemblyName": null
+}
