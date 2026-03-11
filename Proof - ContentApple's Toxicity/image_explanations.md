@@ -42,6 +42,10 @@ you assume your fans are poor? Fucked up lol
 Proof of his vibecoding. Images speak for themselves, *he doesn't know how to code* and this is proof. I'm insulting him for it because 
 he tried to use it as an insult first on me when I am anti-AI (see image 3)
 
+# 9. Extra Proof of toxicity - Player reached out
+While in the comments of a post talking about the mod's poor performance (ran into it by pure chance), a person who also wanted to investigate the mod's poor performance shared their brief interaction with ContentApple, where he was being unreasonably harsh and rude. This behaviour is unacceptable especially when being asked a fair question from a polite person.
+PS. If anyone knows any more context or had similar interactions, let me know in my dms on reddit ty
+
 # Closing Statement. 
 He's full of lies. Everything else speaks for itself, go read the comments yourself. I only deleted the ones on mine 
 initially because they were spam and held no value, but I'm transparent which is why I attached screenshots of what I had already in 
