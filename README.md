@@ -10,7 +10,7 @@ In there is the files of the actual installed mod, or just install it from this 
 - **Version 0.1 | 8/03/26 :** First implementation, extremely basic. Main goal was to remove redundant checks and simplify the original mod via a complete rewrite. Similar frameworks due to their simplicities, but ended up being 3x faster.
 - **Version 1.0 | 9/03/26 :** Replaced most of 0.1's code and implemented additional safeguards to ensure robustness & stability, while adding small QoL, such as limb deletion not closing the inspect menu. Maintains even better performance than 0.1 despite the additions.
 - **Version 1.1 | 10/03/26 :** Thumbnail updated to reduce confusion with the word "optimisation". Now referred to as "lightweight" as a better descriptor.
-- **Version 1.2 | 13/03/26 :** I was requested to publish a separate mod which isn't "sticky", but I instead merged this feature into the same mod by adding a keybind (LeftAlt) to toggle the permeance of the Inspector, with an editable json config + in depth null checking to prevent the mod from breaking with helpful ModAPI outputs for debugging. Poorly explained, I know, tldr: keybind for toggling inspector permeance
+- **Version 1.2 | 13/03/26 :** I was requested to publish a separate mod which isn't "sticky", but I instead merged this feature into the same mod by adding a keybind (LeftAlt) to toggle the permanence of the Inspector, with an editable json config + in depth null checking to prevent the mod from breaking with helpful ModAPI outputs for debugging. Poorly explained, I know, tldr: keybind for toggling inspector permanence once you stop hovering
 
 ## My Goal
 This mod's goal is simple:
